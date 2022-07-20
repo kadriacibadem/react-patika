@@ -1,0 +1,17 @@
+{
+  "name": "react-patika",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Kadri Acıbadem <kadriacibadem@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-fetch": "^3.2.9",
+    "slugify": "^1.6.5"
+  }
+}
